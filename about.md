@@ -7,6 +7,8 @@ permalink: /about/
 
 ##  Assistant Professor, Saint Francis Xavier University, <a href="http://www2.mystfx.ca/math-stats/mathematics-statistics">Department of Mathematics and Statistics</a>
 
+<hr>
+
 <img align="left" src="https://cupidok.github.io/images/kc_photo.jpg" width="250" height="320" /> 
 
 ## Research
