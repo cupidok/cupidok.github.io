@@ -5,7 +5,8 @@ permalink: /about/
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/kc_photo.jpg)
-<img src={"{ site.baseurl }}/images/kc_photo.jpg" width="200" height="200" />
+
+<img src={"https://cupidok.github.io/images/kc_photo.jpg" width="200" height="200" />
 
 Some information about you!
 
