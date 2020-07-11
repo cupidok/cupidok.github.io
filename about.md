@@ -20,7 +20,9 @@ My <a href="https://search.proquest.com/openview/440a5f700b7f28d566ba6222627e6bb
 ## Education
 
 PhD Statistics, Arizona State University
+
 MSc Statistics, McMaster University
+
 BSc Mathematics, BEd Intermediate/Senior Education, Brock University
 <hr>
 
