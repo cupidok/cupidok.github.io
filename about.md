@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-<img src="https://cupidok.github.io/images/kc_photo.jpg" width="220" height="300" />
+<img src="https://cupidok.github.io/images/kc_photo.jpg" width="250" height="300" />
 
 Some information about you!
 
