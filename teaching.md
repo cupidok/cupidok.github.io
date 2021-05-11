@@ -19,4 +19,3 @@ STAT 331: Statistical Methods
 
 <hr>
 
-<img align="center" height="300"  src="https://cupidok.github.io/images/MRes.png" /> 
