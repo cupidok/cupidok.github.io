@@ -1,12 +1,35 @@
 ---
 layout: post
-title: You're up and running!
+title: About Me
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+<img align="center" hspace="50" height = "500" src="https://cupidok.github.io/images/KC.jpg" /> 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+### Assistant Professor, Saint Francis Xavier University, <a href="http://www2.mystfx.ca/math-stats/mathematics-statistics">Department of Mathematics and Statistics</a>
+
+
+
+<hr>
+
+
+
+
+
+## Education
+
+PhD Statistics, Arizona State University, 2020.
+
+MSc Statistics, McMaster University, 2017.
+
+BSc Mathematics, BEd Intermediate/Senior Education, Brock University, 2015.
+<hr>
+
+
+
+
+### Contact me
+
+[kcupido@stfx.ca](mailto:kcupido@stfx.ca)
 
 
