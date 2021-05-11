@@ -16,3 +16,7 @@ STAT 231: Statistics for Students in the Sciences
 STAT 311: Survey Sampling Design
 
 STAT 331: Statistical Methods
+
+<hr>
+
+<img align="center" height="300"  src="https://cupidok.github.io/images/MRes.png" /> 
