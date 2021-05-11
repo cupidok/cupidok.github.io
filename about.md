@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-
-##  Assistant Professor, Saint Francis Xavier University, <a href="http://www2.mystfx.ca/math-stats/mathematics-statistics">Department of Mathematics and Statistics</a>
+<img align="left" hspace="50" src="https://cupidok.github.io/images/KC.jpg" /> 
+#  Assistant Professor, Saint Francis Xavier University, <a href="http://www2.mystfx.ca/math-stats/mathematics-statistics">Department of Mathematics and Statistics</a>
 
 <hr>
 
-<img align="left" hspace="50" src="https://cupidok.github.io/images/KC.jpg" /> 
+
 
 
 
