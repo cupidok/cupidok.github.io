@@ -31,6 +31,6 @@ BSc Mathematics, BEd Intermediate/Senior Education, Brock University, 2015.
 
 
 
-### Contact me
+### Contact
 
 [kcupido@stfx.ca](mailto:kcupido@stfx.ca)
