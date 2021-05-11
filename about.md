@@ -9,7 +9,7 @@ permalink: /about/
 
 <hr>
 
-<img align="left" hspace="50" src="https://cupidok.github.io/images/KC.jpg" width="250" height="320" /> 
+<img align="left" hspace="50" src="https://cupidok.github.io/images/KC.jpg" /> 
 
 
 
