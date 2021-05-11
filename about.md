@@ -19,21 +19,25 @@ My <a href="https://search.proquest.com/openview/440a5f700b7f28d566ba6222627e6bb
 
 <hr>
 
-## Teaching
-
-I have always had a passion for teaching. It is the pleasure I take from connecting with students, as they grow in knowledge through a combination of their hard work and my devoted efforts, that is one of the main things that I love about working in academia. It was precisely this love of teaching that inspired me to get a degree in education, and become a good standing member of the Ontario College of Teachers. Now in looking back on my educational journey, I realize I was blessed with many gifted teachers and had the privilege to take intellectually rewarding classes. All of that, combined with my now gained experiences teaching in the classroom, have shaped who I have become as a teacher. As an educator, my general teaching interests are firmly rooted in statistics, directed towards students of all academic backgrounds.
-
-
-
-<hr>
-
 ## Education
 
-PhD Statistics, Arizona State University
+PhD Statistics, Arizona State University, 2020.
 
-MSc Statistics, McMaster University
+MSc Statistics, McMaster University, 2017.
 
-BSc Mathematics, BEd Intermediate/Senior Education, Brock University
+BSc Mathematics, BEd Intermediate/Senior Education, Brock University, 2015.
+<hr>
+
+## Teaching
+
+STAT 101: Introductory Statistics
+
+STAT 231: Statistics for Students in the Sciences
+
+STAT 331: Statistical Methods
+
+STAT 311: Survey Sampling Design
+
 <hr>
 
 
