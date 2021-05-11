@@ -8,7 +8,7 @@ I am interested in exploring real-world problems from all walks of statistics, p
 
 My <a href="https://search.proquest.com/openview/440a5f700b7f28d566ba6222627e6bbe/1/advanced">PhD dissertation</a>, which was completed under the supervision of<a href="https://math.asu.edu/node/2745"> Dr. Petar Jevtic</a>, featured an evaluation of the underlying spatial patterns of mortality in the United States, and proposed a variety of modeling techniques to introduce a spatial perspective to the existing body of traditional actuarial mortality models.
 
-<img align="center"  src="https://cupidok.github.io/images/Can3.png" /> 
+
 
 ## Recent Publications
 
@@ -22,3 +22,4 @@ spatial filtering approach. Insurance: Mathematics and Economics, 95, 28-38.
 
 <hr>
 
+<img align="center"  src="https://cupidok.github.io/images/Can3.png" /> 
