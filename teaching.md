@@ -4,6 +4,7 @@ title: Teaching
 permalink: /teaching/
 ---
 
+Current Students: All course information and resources are available on Moodle.
 
 
 ## Courses Taught
