@@ -5,7 +5,7 @@ permalink: /about/
 ---
 ### Assistant Professor, Saint Francis Xavier University, <a href="http://www2.mystfx.ca/math-stats/mathematics-statistics">Department of Mathematics and Statistics</a>
 
-<img align="left" hspace="50" src="https://cupidok.github.io/images/KC.jpg" /> 
+<img align="left" hspace="50" height = "500" src="https://cupidok.github.io/images/KC.jpg" /> 
 
 
 <hr>
@@ -23,17 +23,7 @@ MSc Statistics, McMaster University, 2017.
 BSc Mathematics, BEd Intermediate/Senior Education, Brock University, 2015.
 <hr>
 
-## Teaching
 
-STAT 101: Introductory Statistics
-
-STAT 231: Statistics for Students in the Sciences
-
-STAT 331: Statistical Methods
-
-STAT 311: Survey Sampling Design
-
-<hr>
 
 
 ### Contact me
