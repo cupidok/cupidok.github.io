@@ -6,6 +6,7 @@ permalink: /teaching/
 
 Current Students: All course information and resources are available on Moodle.
 
+<hr>
 
 ## Courses Taught
 
