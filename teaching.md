@@ -18,5 +18,7 @@ STAT 311: Survey Sampling Design
 
 STAT 331: Statistical Methods
 
+STAT 357: Regression Analysis
+
 <hr>
 
