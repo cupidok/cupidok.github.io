@@ -20,5 +20,7 @@ STAT 331: Statistical Methods
 
 STAT 357: Regression Analysis
 
+STAT 445: Statistical Learning and Data Mining
+
 <hr>
 
