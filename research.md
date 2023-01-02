@@ -12,6 +12,9 @@ My <a href="https://search.proquest.com/openview/440a5f700b7f28d566ba6222627e6bb
 
 ## Recent Publications
 
+Cupido, K., & McClure, O. (2022). Spatio-temporal Analysis of Human Mortality in Canada
+Canadian Studies in Population.
+
 Cupido, K., Fotheringham, A. S., & Jevtic, P. (2020). Local modelling of US mortality rates:
 A multiscale geographically weighted regression approach. Population, Space and Place.
 
