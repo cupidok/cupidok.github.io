@@ -9,7 +9,7 @@ order: 1
 
 
 ### Assistant Professor, Saint Francis Xavier University, 
-<a href="http://www2.mystfx.ca/math-stats/mathematics-statistics">Department of Mathematics and Statistics</a>
+<a href="https://www.stfx.ca/department/mathematics-statistics">Department of Mathematics and Statistics</a>
 
 
 
