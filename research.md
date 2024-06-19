@@ -12,6 +12,10 @@ My <a href="https://search.proquest.com/openview/440a5f700b7f28d566ba6222627e6bb
 
 ## Recent Publications
 
+Cupido, K., Jevtic, P., Regis, L., & Zhou, KQ. (2024) Spatial Natural Hedging--A General Framework with Application to the Mortality of U.S. States. Scandanavian Actuarial Journal
+
+Cupido, K., Jevtic, P., & Boonen, T. (2024) Space, Mortality and Economic Growth. Journal of Forecasting
+
 Cupido, K., & McClure, O. (2022). Spatio-temporal Analysis of Human Mortality in Canada
 Canadian Studies in Population.
 
@@ -19,7 +23,7 @@ Cupido, K., Fotheringham, A. S., & Jevtic, P. (2020). Local modelling of US mort
 A multiscale geographically weighted regression approach. Population, Space and Place.
 
 Cupido, K., Jevtic, P., & Paez, A. (2020). Spatial patterns of mortality in the United States: A
-spatial filtering approach. Insurance: Mathematics and Economics, 95, 28-38.
+spatial filtering approach. Insurance: Mathematics and Economics.
 
 
 
