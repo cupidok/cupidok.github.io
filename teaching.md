@@ -10,7 +10,7 @@ Current Students: All course information and resources are available on Moodle.
 
 ## Courses Taught
 
-<a href="https://cupidok.github.io/stats">STAT 101:</a>  Introductory Statistics 
+STAT 101:  Introductory Statistics 
 
 STAT 224: Probability and Statistics for Engineers
 
