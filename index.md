@@ -8,7 +8,7 @@ order: 1
 <img align="center" hspace="50" height = "500" src="https://cupidok.github.io/images/KC.jpg" /> 
 
 
-### Assistant Professor, Saint Francis Xavier University, 
+### Associate Professor, Saint Francis Xavier University, 
 <a href="https://www.stfx.ca/department/mathematics-statistics">Department of Mathematics and Statistics</a>
 
 
