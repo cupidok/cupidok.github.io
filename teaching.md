@@ -6,6 +6,7 @@ permalink: /teaching/
 
 Current Students: All course information and resources are available on Moodle.
 
+
 <hr>
 
 ## Courses Taught
@@ -30,3 +31,6 @@ STAT 445: Statistical Learning and Data Mining
 
 <hr>
 
+ <a href="https://cupidok.github.io/stats/">Some Intro Stats Resources</a>
+
+ <hr>
