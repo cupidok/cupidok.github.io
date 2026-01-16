@@ -12,6 +12,8 @@ Current Students: All course information and resources are available on Moodle.
 
 STAT 101:  Introductory Statistics 
 
+DSCI 204: Introduction to Statistical Programming
+
 STAT 224: Probability and Statistics for Engineers
 
 STAT 231: Statistics for Students in the Sciences
